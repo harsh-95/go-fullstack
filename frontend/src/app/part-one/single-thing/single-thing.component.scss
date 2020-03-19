@@ -2,15 +2,17 @@
   position: relative;
   width: 60%;
   margin: auto;
+  display: flex;
 }
 
 img {
   position: relative;
-  width: 100%;
+  /*width: 100%;*/
 }
 
 .single-thing-info {
   width: 100%;
+  padding-left: 15%;
 }
 
 .single-thing-price {
